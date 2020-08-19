@@ -1,6 +1,8 @@
-### Hi there 👋
+### About Me 
 
-🔬  &nbsp;I’m currently working on developing stratified medicine pipelines and visualisations with multi-omic data 
+🎓 &nbsp;I’m a bioinformatics PhD student with the [Centre for translational bioinformatics](https://www.qmul.ac.uk/c4tb/) and the [Centre for Experimental Medicine and Rheumatology](https://www.qmul.ac.uk/whri/emr/) at QMUL
+
+🔬  &nbsp;I’m currently developing stratified medicine pipelines using multi-omic data in autoimmune diseases
 
 💻  &nbsp;Interested in predictive machine learning models
 
