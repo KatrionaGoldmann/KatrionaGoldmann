@@ -1,13 +1,17 @@
 ### Hi there 👋
 
-- 🔬  &nbsp;I’m currently working on developing stratified medicine pipelines and visualisations with multi-omic data 
-- 💻  &nbsp;I’m currently learning about machine learning models
-- 🌎  &nbsp;From 🏴󠁧󠁢󠁳󠁣󠁴󠁿 &nbsp;living in London&nbsp;💂‍
-- 💬  &nbsp;Ask me about anything - happy to help
-- 📫  &nbsp;How to reach me: 
-  * ✉️  &nbsp;k.goldmann(at)qmul.ac.uk  
-  * 🐦  &nbsp;[@\_katriona](https://twitter.com/_katriona)
-- 😄 &nbsp;Pronouns: She/her
+🔬  &nbsp;I’m currently working on developing stratified medicine pipelines and visualisations with multi-omic data 
+
+💻  &nbsp;Interested in predictive machine learning models
+
+🌎  &nbsp;From 🏴󠁧󠁢󠁳󠁣󠁴󠁿 &nbsp;living in London&nbsp;💂‍
+
+📫  &nbsp;How to reach me: 
+
+* ✉️  &nbsp;k.goldmann(at)qmul.ac.uk  
+* 🐦  &nbsp;[@\_katriona](https://twitter.com/_katriona)
+
+😄 &nbsp;Pronouns: She/her
 
 
 ### Languages
