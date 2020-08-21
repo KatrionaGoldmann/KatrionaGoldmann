@@ -30,8 +30,11 @@
 [<img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">](https://www.python.org/)&nbsp;
 [<img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png">](https://www.gnu.org/software/bash/)&nbsp;
 [<img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">](https://www.w3schools.com/html/)&nbsp;
+[<img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">](https://www.javascript.com/)&nbsp;
 [<img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png">](https://jupyter.org/)&nbsp;
 [<img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png">](https://www.markdownguide.org/)&nbsp;
+[<img height="40" src="https://images.prismic.io/plotly-marketing-website/bd1f702a-b623-48ab-a459-3ee92a7499b4_logo-plotly.svg?auto=compress,format">](https://plotly.com/)&nbsp;
+[<img height="50" src="https://github.com/rstudio/hex-stickers/blob/master/PNG/shiny.png?raw=true">](https://shiny.rstudio.com/)&nbsp;
 [<img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png">](https://scikit-learn.org/stable/)&nbsp;
 [<img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">](https://git-scm.com/)&nbsp;
 [<img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/latex/latex.png">](https://www.latex-project.org/)&nbsp;
