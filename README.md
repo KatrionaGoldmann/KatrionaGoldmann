@@ -1,10 +1,10 @@
 ## About Me 
 
-👩🏽‍💻 &nbsp;I’m a data scientist at the [Alan Turing Institute](https://www.turing.ac.uk/) working with the [Research Engineering Group](https://www.turing.ac.uk/research-engineering). 
+👩🏽‍💻 &nbsp;I’m a research data scientist at the [Alan Turing Institute](https://www.turing.ac.uk/) working with the [Research Engineering Group](https://www.turing.ac.uk/research-engineering). 
 
-🦋 &nbsp;Currently my work uses computer vision to monitor biodiversity by classifying species of moths and butterflies. More [here](https://github.com/AMI-trap).
+🦋 &nbsp;Currently my work uses computer vision to monitor biodiversity by classifying species of moths. More [here](https://github.com/AMI-trap).
 
-🌎  &nbsp;From 🏴󠁧󠁢󠁳󠁣󠁴󠁿 &nbsp;living in Leeds&nbsp;
+🌎  &nbsp;From 🏴󠁧󠁢󠁳󠁣󠁴󠁿&nbsp;living in Yorkshire 🏵&nbsp;
 
 😄 &nbsp;Pronouns: She/her
 
